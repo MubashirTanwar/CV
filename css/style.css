@@ -8,18 +8,55 @@ hr{
     border-width: 5px;
     border-color: grey;
     width: 10pc;
-
-
     height: none;
     
 }
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: #052142;
+}
 h1{
-
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:#0D4C92;
 }
 h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
     color:  #0D4C92;
 }
 h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
     color:  #0D4C92;
+}
+#jobtitle{
+    font-size: 20px;
+    font-style: italic;
+    color: #0D4C92;
+
+}
+img{
+    border: 3px solid #0D4C92;
+    vertical-align:bottom;
+    border-radius: 100pc;
+    
+}
+img:hover{
+    border: 3px solid #052142;
+    vertical-align:bottom;
+    border-radius: 100pc;
+    
+}
+a:link{
+    color: #0D4C92;
+}
+a:hover{
+    color:#052142;
+}
+a:active{
+    color:#0D4C92;
+}
+p{
+    size: 3px;
 }
