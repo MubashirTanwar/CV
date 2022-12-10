@@ -51,6 +51,9 @@ img:hover{
 a:link{
     color: #0D4C92;
 }
+a:visited {
+    color: #0D4C92;
+}
 a:hover{
     color:#052142;
 }
